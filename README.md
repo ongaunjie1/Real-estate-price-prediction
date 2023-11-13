@@ -1,9 +1,9 @@
 # Real-estate-price-prediction
 
-# Data source
+## Data source
 https://data.milwaukee.gov/dataset/property-sales-data
 
-# About Dataset
+## About Dataset
 | Field Name    | Description                                                    | Type  |
 |---------------|----------------------------------------------------------------|-------|
 | PropertyID    | A unique identifier for each property.                         | text  |
@@ -17,7 +17,7 @@ https://data.milwaukee.gov/dataset/property-sales-data
 | Extwall       | The type of exterior wall material used.                       | text  |
 | Stories       | The number of stories in the building.                         | text  |
 | Year_Built    | The year the property was built.                               | text  |
-| Rooms         | The number of rooms in the property.                            | text  |
+| Rooms         | The number of rooms in the property.                           | text  |
 | FinishedSqft  | The total square footage of finished space in the property.    | text  |
 | Units         | The number of units in the property (e.g., apartments in a multifamily building). | text  |
 | Bdrms         | The number of bedrooms in the property.                        | text  |

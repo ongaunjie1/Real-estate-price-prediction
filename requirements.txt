@@ -33,7 +33,7 @@ rich==13.6.0
 rpds-py==0.12.0
 scipy==1.11.3
 six==1.16.0
-sklearn==0.0.post11
+sklearn
 smmap==5.0.1
 streamlit==1.28.1
 tenacity==8.2.3

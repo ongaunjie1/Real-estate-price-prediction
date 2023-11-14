@@ -36,8 +36,8 @@
 
 # Refer below for the all the steps taken:
 ## Step 1: Data merging
-* From the source, the datasets are separated by year ranging from 2002-2022. Hence, concatenation is required
-* Refer to the file concat.ipynb for more information on the data merging process
+* From the source, the datasets are separated by year ranging from 2002-2022. Hence, concatenation is required.
+* Refer to the file concat.ipynb for more information on the data merging process.
 ### a TLDR on the concat.ipynb:
 * Changing Sale_date format into YYYY-MM for the 2019-2022 dataset to allign with the same format as the 2002-2018 datasets
 * Remove missing values (NaN values)

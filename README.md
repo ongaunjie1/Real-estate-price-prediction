@@ -137,9 +137,8 @@
 | 2.0     | 1890       | 2329     | 5781    | 2002      | 66500      | False      | False      | False      | True       | ... | False    | False   | True    | False   | False   | False   | False   | False   | False   | False    |
 | 2.5     | 1891       | 7450     | 15600   | 2002      | 150500     | False      | False      | False      | True       | ... | False    | False   | False   | False   | False   | False   | False   | True    | False   | False    |
 
-## Understanding correlation of features with Sale_price
-### This graph shows the top 20 features that is positively correlated with Sale_price
-![image](https://github.com/ongaunjie1/Real-estate-price-prediction/assets/118142884/0c7f19ea-d5ae-4c94-a9c7-0ebbc18ffb31)
+## Understanding correlation between independent variables using heatmap
+df_encoded
 
 ## Step 5: Data Preparation (Split dataset) before model training
 * Splitting dataset using train_test_split **(80% training dataset, 20% test dataset)**

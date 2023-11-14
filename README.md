@@ -212,7 +212,7 @@ y_pred = best_model.predict(X_test)
 
 ## Step 8: Creating a streamlit-app using the fine-tuned model
 * The app will be capable of taking in end user's input of the features and predicting the sale price
-* Link to the app: https://real-estate-price-prediction-xgboost-reg.streamlit.app/
+* Link to the app: https://real-estate-price-prediction-app.streamlit.app/
 * Feel free to test the app ! Let me know if you encountered any issues with the app.
 ![image](https://github.com/ongaunjie1/Real-estate-price-prediction/assets/118142884/1ca8daae-ed40-4025-8317-88fc5c235ba6)
 

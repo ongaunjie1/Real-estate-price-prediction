@@ -1,7 +1,8 @@
 # Real-estate-price-prediction
 
 ## Data source
-* This dataset is about Milwaukee's (US state) Real Estate sales data from the year 2002-2022
+* The dataset used is about Milwaukee's (US state) Real Estate sales data from the year 2002-2022
+* The dataset is obtained from Milwaukee's Open Data Portal
 * Refer to the link below to download the dataset
 * Link: https://data.milwaukee.gov/dataset/property-sales-data
 

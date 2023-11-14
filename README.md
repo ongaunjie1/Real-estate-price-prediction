@@ -204,7 +204,6 @@ y_pred = best_model.predict(X_test)
 | R2     |     **0.806**        | 
 
 * The model improved slightly compared to the base-model.
-* For this project, a R^2 of **0.806** is sufficient.
 
 ### Possible improvement for the model
 * Revisit feature engineering

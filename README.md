@@ -138,7 +138,7 @@
 | 2.5     | 1891       | 7450     | 15600   | 2002      | 150500     | False      | False      | False      | True       | ... | False    | False   | False   | False   | False   | False   | False   | True    | False   | False    |
 
 ## Understanding correlation between independent variables using heatmap
-df_encoded
+![image](https://github.com/ongaunjie1/Real-estate-price-prediction/assets/118142884/aed1184d-9a49-4f1f-be12-dae52ff416b7)
 
 ## Step 5: Data Preparation (Split dataset) before model training
 * Splitting dataset using train_test_split **(80% training dataset, 20% test dataset)**

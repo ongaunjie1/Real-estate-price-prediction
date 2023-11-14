@@ -171,7 +171,7 @@
 | R2     |     **0.679**        | 
 
 ## Step 7: Model Selection and fine-tuning using GridSearchCV
-* From the preliminary model fitting, it showed that XGboost performed the best among the tree with a R^2 of **0.790**. Hence, it is selected for fine-tuning.
+* From the preliminary model fitting, it showed that XGboost performed the best among the three models with a R^2 of **0.790**. Hence, it is selected for fine-tuning.
 ### Hyperparamter grid
 ```
 param_grid = {

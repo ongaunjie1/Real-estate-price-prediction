@@ -209,7 +209,7 @@ y_pred = best_model.predict(X_test)
 * Revisit feature engineering
 * Normalizing Variables
 * Regularization
-* Further expland the hyperparameters grid to improve performance
+* Further expand the hyperparameters grid to improve performance
 
 ## Step 8: Creating a streamlit-app using the fine-tuned model
 * The app will be capable of taking in end user's input of the features and predicting the sale price

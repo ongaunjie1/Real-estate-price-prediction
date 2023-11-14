@@ -142,7 +142,7 @@
 ![image](https://github.com/ongaunjie1/Real-estate-price-prediction/assets/118142884/0c7f19ea-d5ae-4c94-a9c7-0ebbc18ffb31)
 
 ## Step 5: Data Preparation (Split dataset) before model training
-* Splitting dataset using train_test_split (80% training dataset, 20% test dataset)
+* Splitting dataset using train_test_split **(80% training dataset, 20% test dataset)**
 
 ## Step 6: Model training
 ### 1st Model: Using XGBoost Regressor

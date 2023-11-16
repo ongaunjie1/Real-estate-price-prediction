@@ -111,4 +111,7 @@ if st.button('Predict'):
 if prediction is not None:
     st.markdown(f"Predicted Real Estate Price")
     st.write(f"${prediction[0]:,.2f}")
+    # Display user input features as a table
+    st.subheader('User Input Features for Prediction')
+    st.write(user_data)
 

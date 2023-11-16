@@ -77,13 +77,13 @@ extwall = st.sidebar.selectbox('Exterior wall material used', ['Frame', 'Stone',
        'Masonry/Frame', 'Wood', 'Alum/Vynyl Siding', 'Concrete Block',
        'Other', 'Masonary Frame', 'Metal Siding', 'Precast Masonary'])
 stories = st.sidebar.number_input('Number of Stories', min_value=1.0, max_value=4.0, value=1.0, step=0.5)
-year_built = st.sidebar.number_input('Year Built', min_value=1835, max_value=2022, value=2000)
+year_built = st.sidebar.number_input('Year Built', min_value=1835, max_value=2022, value=2000, step=10)
 nr_of_rms = st.sidebar.selectbox('Number of Rooms', range(0,64))
-fin_sqft = st.sidebar.number_input('Square Footage of Finished Space (ft²)', min_value=256, max_value=26930, value=2000)
+fin_sqft = st.sidebar.number_input('Square Footage of Finished Space (ft²)', min_value=256, max_value=26930, value=2000, step=500)
 bdrms = st.sidebar.selectbox('Bedrooms', range(0,33))
 fbath = st.sidebar.selectbox('Full Bathrooms', range(0,11))
-lotsize = st.sidebar.number_input('Size of the land (ft²)', min_value=0, max_value=219978, value=3500)
-year_sold = st.sidebar.number_input('Year Sold', min_value=2002, max_value=2022, value=2002)
+lotsize = st.sidebar.number_input('Size of the land (ft²)', min_value=0, max_value=219978, value=3500, step=500)
+year_sold = st.sidebar.number_input('Year Sold', min_value=2002, max_value=2022, value=2002, step=10)
 
 # Create a DataFrame from the user input
 user_data = pd.DataFrame({

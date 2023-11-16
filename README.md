@@ -1,5 +1,5 @@
 # Real-estate-price-prediction
-
+Link to streamlit app: https://real-estate-price-prediction-app.streamlit.app/
 ## Data source
 * The dataset used is about Milwaukee's (US state) Real Estate sales data from the year 2002-2022
 * The dataset is obtained from Milwaukee's Open Data Portal

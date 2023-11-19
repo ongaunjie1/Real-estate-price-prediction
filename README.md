@@ -38,7 +38,7 @@ Link to streamlit app: https://real-estate-price-prediction-app.streamlit.app/
 ## Step 1: Data merging
 * From the source, the datasets are separated by year ranging from 2002-2022. Hence, concatenation is required.
 * Refer to the file concat.ipynb for more information on the data merging process.
-### a TLDR on the concat.ipynb:
+### Overview on the concat.ipynb:
 * Changing Sale_date format into YYYY-MM for the 2019-2022 dataset to align with the date format of the 2002-2018 datasets
 * Remove missing values (NaN values)
 * Dropping insignificant features
@@ -104,7 +104,7 @@ Link to streamlit app: https://real-estate-price-prediction-app.streamlit.app/
 
 ![image](https://github.com/ongaunjie1/Real-estate-price-prediction/assets/118142884/157be06e-b6b8-4eac-85f4-c9b9fb99041a)
 
-## EDA TLDR:
+## Overview from EDA:
 ### From the EDA, features that could impact the sale price of a real estate property are:
 * Finished Fin_sqft
 * Lot size
